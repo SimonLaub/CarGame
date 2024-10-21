@@ -121,7 +121,7 @@ It was time for the project manager, that was also me, to step in and say “eno
 Anyway, the game looked cool:<br>
 <img src="Pics/CargameTrafficScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
 
-The code is available in the file <a href="Code/CargameTraffic.py.py">Car Game</a> (With traffic). <br>But you can also try (and see if it is possible for you) to make some smart prompts, that will make it possible for you to get the code directly from ChatGPT. 
+The code is available in the file <a href="Code/CargameTraffic.py">Car Game</a> (With traffic). <br>But you can also try (and see if it is possible for you) to make some smart prompts, that will make it possible for you to get the code directly from ChatGPT. 
 <h2>Exercise 5.</h2>
 <i>Collecting data.</i><br>
 
