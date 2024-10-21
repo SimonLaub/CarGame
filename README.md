@@ -15,5 +15,5 @@ Running the code, it looks like this:<br>
 <br>
 <img src="Pics/CarGameInitialVersion.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
 Perhaps not the most exciting car game you ever saw, but a good start.<br>
-You can now ask ChatGPT for similar code, or you can run the code  <a href="Code/CarGameInitialVersion.py">Car Game (Initial version(</a>.<br>
+You can now ask ChatGPT for similar code, or you can run the code  <a href="Code/CarGameInitialVersion.py">Car Game</a> (Initial version).<br>
 
