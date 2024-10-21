@@ -54,7 +54,7 @@ Getting that out of ChatGPT was not so easy… <br>And took several prompts and 
 Looking at the very few changes needed to make that work, <br>you can’t help thinking that it would have been easier just to add the scoring to the code yourself.  <br>
 Anyway, the end result of the discussion can be seen in <a href="Code/Cargame.py">Car Game</a> (With points).<br>
 <img src="Pics/CarGameScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
-Try out the code. Or make your adjustments to the code to add points to the game. <br>
+Try out the code. Or make your own adjustments to the code to add points to the game. <br>
 
 ```
           # Render the score
