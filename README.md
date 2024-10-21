@@ -26,5 +26,21 @@ In order to make the game more exciting, I will ask for a more winding road. <br
 <img src="Pics/WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500"><br>
 Ok. That’s actually more than I asked for.<br>
 <img src="Pics/WindingRoadScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
+Looks good visually. <br>
+Inside the code I am already beginning to be nervous though, <br>about the “update road in slices part”,  and how this will play out as we move on with the project. <br>
+```
+                # Update road slices
+                    for slice_info in road_slices:
+                         # Move the slice down the screen
+                         slice_info['y'] += scroll_speed
+
+                      # If the slice is off the bottom, reset to the top
+                      if slice_info['y'] > HEIGHT:
+                          slice_info['y'] -= HEIGHT + slice_height
+```
+Well. So, if a slice is down below, we change its coordinates? Easy code, probably, but not super, intuitively, easy to understand code. A little “smelly”, Imho. I.e. how will this work out for us as we move on, later, with adding more functionality to the game?  <br>
+And all of this talk about a 3D perspective in a 2D environment. Hallucinating? <br>
+
+
 
 
