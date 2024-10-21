@@ -16,4 +16,12 @@ Running the code, it looks like this:<br>
 <img src="Pics/CarGameInitialVersion.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
 Perhaps not the most exciting car game you ever saw, but a good start.<br>
 You can now ask ChatGPT for similar code,<br> or you can run the code  <a href="Code/CargameInitialVersion.py">Car Game</a> (Initial version).<br>
+<br>
+You can control the car with arrows, and the car does appear to be moving. So, that’s all fine. <br>
+The car is yellow off road, and red on the road. Ok. Fine. <br>
+Still, you can, of course, change everything you are not pleased with, or ask ChatGPT to do it for you.
+
+<h2>Exercise 1.</h2>
+In order to make the game more exciting, I will ask for a more winding road. 
+
 
