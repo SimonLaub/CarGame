@@ -23,6 +23,8 @@ Still, you can, of course, change everything you are not pleased with, or ask Ch
 
 <h2>Exercise 2.</h2>
 In order to make the game more exciting, I will ask for a more winding road. <br>
-<img src="Pics/WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500">
+<img src="Pics/WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500"><br>
+Ok. That’s actually more than I asked for.<br>
+<img src="Pics/WindingRoadScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
 
 
