@@ -119,6 +119,6 @@ So, well, as in many software teams, the team members were kind of yelling at ea
 It was time for the project manager, that was also me, to step in and say “enough”, we have a deadline to meet, so we will deliver this code, and make room for refactoring in upcoming sprints <br>(<b><i>Notice</i></b>: Shipping error prone code, with the excuse that we are doing refactoring later on… <br>Well, don’t do that IRL…).<br>
 <br>
 Anyway, the game looked cool:<br>
-
+<img src="Pics/CargameTraffiScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
 
 
