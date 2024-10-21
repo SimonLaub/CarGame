@@ -22,6 +22,7 @@ The car is yellow off road, and red on the road. Ok. Fine. <br>
 Still, you can, of course, change everything you are not pleased with, or ask ChatGPT to do it for you.
 
 <h2>Exercise 2.</h2>
-In order to make the game more exciting, I will ask for a more winding road. 
+In order to make the game more exciting, I will ask for a more winding road. <br>
+<img src="Pics/s´WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500">
 
 
