@@ -43,6 +43,12 @@ Inside the code I am already beginning to be nervous though, <br>about the “up
 
 Well. So, if a slice is down below, we change its coordinates? <br>Easy code, probably, but not super, intuitively, easy to understand code. A little “smelly”, Imho.<br> I.e. how will this work out for us as we move on, later, with adding more functionality to the game?  <br>
 And all of this talk about a 3D perspective in a 2D environment. Hallucinating? <br>
+<br>
+Anyway. Nevermind. We will take the code for now. <br>
+Try out the code by running the file <a href="Code/CargameWindingRoad.py">Car Game</a> (Winding road) Or ask ChatGPT for your version of the code.
+
+<h2>Exercise 3.</h2>
+
 
 
 
