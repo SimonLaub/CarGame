@@ -134,7 +134,7 @@ Things are still not entirely rosy, though. <br>
 Playing the game in its current form, it quickly becomes obvious that a player will do reasonably well by just driving straight ahead. So, an algorithm trained on such data will probably also do reasonably well, by just going straight ahead. Not paying too much attention to every twist and turn of the road, and not being too concerned about traffic passing by very closely. <br>
 -	Not what we want. <br>We want the car to be able to self-drive, in such a way that it <i><b>follows the road closely, and not being in the same lane as traffic</b></i>. <br>
 <br>
-I.e how can we make sure that the self-driving car also deals with “rare” events.  ChatGPT says:
+I.e how can we make sure that the self-driving car also deals with “rare” events. <br> ChatGPT says:
 <img src="Pics/RareEventsquestion.jpg" alt="Chat with ChatGPT" width="500"><br>
 Yes.<br>
 And ChatGPT gets even more to the point later on in its answer:<br>
