@@ -1,5 +1,5 @@
 # Car Game
-A car game in Python, with help from an LLM.<br>
+A car game in Python, with help from an LLM...<br>
 <br>
 <img src="Pics/blue.jpg" alt="Introduction" width="500"><br>
 <br>
