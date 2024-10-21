@@ -127,7 +127,7 @@ The code is available in the file <a href="Code/CargameTraffic.py">Car Game</a> 
 <br>
 In this day and age, we obviously also want our car to be self-driving. In this simple setting, we could, of course, just code this with a few if-statements. But that wouldn’t be much fun…<br>
 We also know that computers can learn to play Atari games like Pong from raw pixel input. So, raw pixel input could probably also work here.  (But) Training that is likely to take some time, and a good graphics card. <br>
-So here, it is probably better to proceed with the simplest possible input: Where are we (offset from the middle of the road) and where is the traffic (lane 1 or 2). Collect data for that along with the user action. And see if some machine learning algorithm can learn to reproduce (good) user actions. <br>
+So, here, it is probably better to proceed with the simplest possible input: <br>Where are we (offset from the middle of the road) and where is the traffic (lane 1 or 2). Collect data for that along with the user action. And see if some machine learning algorithm can learn to reproduce (good) user actions. <br>
 <br>
 Things are still not entirely rosy, though. <br>
 Playing the game in its current form, it quickly becomes obvious that a player will do reasonably well by just driving straight ahead. So, an algorithm trained on such data will probably also do reasonably well, by just going straight ahead. Not paying too much attention to every twist and turn of the road, and not being too concerned about traffic passing by very closely. <br>
