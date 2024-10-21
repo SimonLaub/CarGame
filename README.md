@@ -135,10 +135,10 @@ Playing the game in its current form, it quickly becomes obvious that a player w
 -	Not what we want. <br>We want the car to be able to self-drive, in such a way that it <i><b>follows the road closely, and not being in the same lane as traffic</b></i>. <br>
 <br>
 I.e how can we make sure that the self-driving car also deals with “rare” events. <br> ChatGPT says:
-<img src="Pics/RareEventsquestion.jpg" alt="Chat with ChatGPT" width="500"><br>
+<img src="Pics/RareEventsquestion.jpg" alt="Chat with ChatGPT" width="600"><br>
 Yes.<br>
 And ChatGPT gets even more to the point later on in its answer:<br>
-<img src="Pics/RareEventsquestion2.jpg" alt="Chat with ChatGPT" width="500"><br>
+<img src="Pics/RareEventsquestion2.jpg" alt="Chat with ChatGPT" width="600"><br>
 So, maybe here it would be possible to train an algorithm on collected data, if we just oversample the rare events<br> (when the user is actually doing something, rather than just going straight ahead). <br>
 And, eventually, after a lot of back and forth with ChatGPT, there was even some code for doing that.<br> But, sadly, again, smelly code.<br>
 <br>
