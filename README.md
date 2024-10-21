@@ -1,7 +1,7 @@
 # Car Game
 A car game in Python, with help from an LLM.<br>
 <br>
-<p style="color:red;">A red paragraph.</p>
+<img src="Pics/start.jpg" alt="Chat with ChatGPT">
 <br>
 <br>
 More. 
