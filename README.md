@@ -178,6 +178,7 @@ Running the code (with only a few manual corrections) on the collected data (gam
 [[311   0]
  [  0 280]]
 '''
+
 And therefore an accuracy of 100 %. I.e. this was easy to learn with a simple algorithm.<br>
 Feel free to experiment with this by looking at the code in <a href="Code/CarActionPrediction.py">Car Game Prediction</a> (Predict next action).
 <h2>Exercise 7.</h2>
