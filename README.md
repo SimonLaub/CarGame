@@ -23,9 +23,9 @@ Still, you can, of course, change everything you are not pleased with, or ask Ch
 
 <h2>Exercise 2.</h2>
 In order to make the game more exciting, I will ask for a more winding road. <br>
-<img src="Pics/WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500"><br>
+< src="Pics/WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500"><br>
 Ok. That’s actually more than I asked for.<br>
-<img src="Pics/WindingRoadScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
+< src="Pics/WindingRoadScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 Looks good visually. <br>
 Inside the code I am already beginning to be nervous though, <br>about the “update road in slices part”,  and how this will play out as we move on with the project. <br>
 <br>
@@ -53,7 +53,7 @@ So far, so good. But its not a game unless the user receives points for doing we
 Getting that out of ChatGPT was not so easy… <br>And took several prompts and much explaining...<br>
 Looking at the very few changes needed to make that work, <br>you can’t help thinking that it would have been easier just to add the scoring to the code yourself.  <br>
 Anyway, the end result of the discussion can be seen in <a href="Code/Cargame.py">Car Game</a> (With points).<br>
-<img src="Pics/CarGameScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
+<img src="Pics/CarGameScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 Try out the code. Or make your adjustments to the code to add points to the game. <br>
 
 ```
