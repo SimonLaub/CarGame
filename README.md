@@ -25,7 +25,7 @@ Still, you can, of course, change everything you are not pleased with, or ask Ch
 In order to make the game more exciting, I will ask for a more winding road. <br>
 < src="Pics/WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500"><br>
 Ok. That’s actually more than I asked for.<br>
-< src="Pics/WindingRoadScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
+<img src="Pics/WindingRoadScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 Looks good visually. <br>
 Inside the code I am already beginning to be nervous though, <br>about the “update road in slices part”,  and how this will play out as we move on with the project. <br>
 <br>
