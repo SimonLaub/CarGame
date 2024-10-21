@@ -187,6 +187,7 @@ Asking ChatGPT to copy paste the new neural net code into the existing game was 
 Not, what we wanted. <br>
 After some back and forth the copy paste of the neural net code into the <a href="Code/CargameTraffic.py ">Car Game code</a> (CarGameTraffic.py) ended up being a manual job. <br>Still, a pretty easy job though.<br>
 <img src="Pics/CarGameNeuralNetScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
+The code is available in <a href="Code/CargameTraffic_NeuralNetSelfDrive.py ">Car Game</a> (CarGameTraffic_NeuralNetSelfDrive.py).<br>
 
 
 
