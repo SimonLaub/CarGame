@@ -158,9 +158,17 @@ It collects data in this format (offset, lane, useraction):<br>
 Again: Making a relatively simple algorithm that can drive based on this training data is probably a little bit tricky though? And will take some additional adjustments. Certainly, here, the code for making this work quickly became (very) smelly, and will not be included here. <br>
 Still, feel free to experiment with this though.<br>
 <br>
-To make it much, much simpler, another data collection was also tried. <br>Here, a (the) computer runs the car (if-statements) and is forced to go either a little left or right on all data collection points. <br>
+To make it much, much simpler, another data collection was also tried. <br>Here, a (the) computer runs the car (if-statements), and is forced to go either a little left or right on all data collection points. <br>
 <img src="Pics/CarGameCollectDataSelfDriveScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
+The collected data looks like this (offset, lane, user/computer action):<br>
+<br>
 <img src="Pics/DataFormatScreen2.jpg" alt="Chat with ChatGPT" width="300" hspace="100"><br>
+<br>
+The code is available in <a href="Code/CarGameCollectData_SelfDrive.py">Car Game</a> (Collect car game data, computer is driver).<br>
+<br>
+Feel free to adjust the code, to work on your own way of collecting data to train on (in later steps).
+
+
 
 
 
