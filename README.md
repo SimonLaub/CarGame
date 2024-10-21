@@ -148,7 +148,13 @@ In the <b><i>first version</i></b> the user is driving the car, and we are colle
 <br>
 
 <img src="Pics/CarGameCollectDateScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
+Getting that code out of ChatGPT was not easy, though… And making it work took some final manual adjustments (many). <br>
+The code is available in <a href="Code/CarGameCollectData.py">Car Game</a> (Collect car game data, for user drive).<br>
+It collects data in this format (offset, lane, useraction):<br>
 <img src="Pics/DataFormatScreen.jpg" alt="Chat with ChatGPT" width="350"><br>
+Again: Making a relatively simple algorithm that can drive based on this training data is probably a little bit tricky though? And will take some additional adjustments. Certainly, here, the code for making this work quickly became (very) smelly, and will not be included here. <br>
+Still, feel free to experiment with this though.<br>
+To make it much, much simpler, another data collection was also tried. Here, a computer runs the car, and is forced to go either a little left or right on all data collection points. <br>
 <img src="Pics/CarGameCollectDataSelfDriveScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 <img src="Pics/DataFormatScreen2.jpg" alt="Chat with ChatGPT" width="350"><br>
 
