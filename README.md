@@ -173,8 +173,11 @@ So, is it possible for an algorithm to learn how to drive just as the user, or t
 <br>
 Yes. For the simple (computer generated) data, this is a standard scenario, so ChatGPT can easily  provide standard (clean) code for learning that task.<br> 
 Running the code (with only a few manual corrections) on the collected data (game_data.xlsx) gives a perfect result (confusion matrix) for the test data:<br>
-[[311   0]<br>
- [  0 280]]<br>
+
+'''
+[[311   0]
+ [  0 280]]
+'''
 And therefore an accuracy of 100 %. I.e. this was easy to learn with a simple algorithm.<br>
 Feel free to experiment with this by looking at the code in <a href="Code/CarActionPrediction.py">Car Game Prediction</a> (Predict next action).
 <h2>Exercise 7.</h2>
