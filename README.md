@@ -7,13 +7,13 @@ So, here we go. We are going to create a car game with the help of an LLM. <br>
 Exciting.
 <h2>Exercise 1.</h2>
 So, we begin chatting with ChatGPT (version ChatGPT o1-preview. October 2024).<br>
-<img src="Pics/start.jpg" alt="Car game. Chat with ChatGPT" width="500">
+<img src="Pics/start.jpg" alt="Chat with ChatGPT" width="500">
 <br>
 Interestingly, and a little surprisingly, this worked <i><b>fine</b></i> right out of the box.<br>
 <br>
 Running the code, it looks like this:<br>
 <br>
-<img src="Pics/CarGameInitialVersion.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
+<img src="Pics/CarGameInitialVersion.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 Perhaps not the most exciting car game you ever saw, but a good start.<br>
 You can now ask ChatGPT for similar code,<br> or you can run the code  <a href="Code/CargameInitialVersion.py">Car Game</a> (Initial version).<br>
 <br>
@@ -25,7 +25,7 @@ Still, you can, of course, change everything you are not pleased with, or ask Ch
 In order to make the game more exciting, I will ask for a more winding road. <br>
 <img src="Pics/WindingRoadDialogue.jpg" alt="Chat with ChatGPT" width="500"><br>
 Ok. That’s actually more than I asked for.<br>
-<img src="Pics/WindingRoadScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
+<img src="Pics/WindingRoadScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 Looks good visually. <br>
 Inside the code I am already beginning to be nervous though, <br>about the “update road in slices part”,  and how this will play out as we move on with the project. <br>
 <br>
@@ -119,7 +119,7 @@ So, well, as in many software teams, the team members were kind of yelling at ea
 It was time for the project manager, that was also me, to step in and say “enough”, we have a deadline to meet, so we will deliver this code, and make room for refactoring in upcoming sprints <br>(<b><i>Notice</i></b>: Shipping error prone code, with the excuse that we are doing refactoring later on… <br>Well, don’t do that IRL…).<br>
 <br>
 Anyway, the game looked cool:<br>
-<img src="Pics/CargameTrafficScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
+<img src="Pics/CargameTrafficScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 
 The code is available in the file <a href="Code/CargameTraffic.py">Car Game</a> (With traffic). <br>But you can also try (and see if it is possible for you) to make some smart prompts, that will make it possible for you to get the code directly from ChatGPT. 
 <h2>Exercise 5.</h2>
