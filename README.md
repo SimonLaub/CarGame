@@ -12,4 +12,6 @@ So, we begin chatting with ChatGPT (version ChatGPT o1-preview. October 2024).<b
 Interestingly, and a little surprisingly, this worked <i><b>fine</b></i> right out of the box.<br>
 <br>
 Running the code, it looks like this:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Pics/CarGameInitialVersion.jpg" alt="Chat with ChatGPT" width="200">
+<p align="center">
+<img src="Pics/CarGameInitialVersion.jpg" alt="Chat with ChatGPT" width="200">
+</p>
