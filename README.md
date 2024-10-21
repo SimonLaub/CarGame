@@ -135,6 +135,8 @@ Playing the game in its current form, it quickly becomes obvious that a player w
 -	Not what we want. <br>We want the car to be able to self-drive, in such a way that it <i><b>follows the road closely, and not being in the same lane as traffic</b></i>. <br>
 <br>
 I.e how can we make sure that the self-driving car also deals with “rare” events.  ChatGPT says:
+<img src="Pics/RareEventsquestion.jpg" alt="Chat with ChatGPT" width="500"><br>
+<img src="Pics/RareEventsquestion2.jpg" alt="Chat with ChatGPT" width="500"><br>
 
 
 
