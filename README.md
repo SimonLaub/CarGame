@@ -182,6 +182,10 @@ Running the code (with only a few manual corrections) on the collected data (gam
 And therefore an accuracy of 100 %. I.e. this was (of course) easy to learn with a simple algorithm.<br>
 Feel free to experiment with this by looking at the code in <a href="Code/CarActionPrediction.py">Car Game Prediction</a> (Predict next action).
 <h2>Exercise 7.</h2>
+The final step. We are now ready to let the neural net drive the car.<br>
+Asking ChatGPT to copy paste the new neural net code into the existing game was not so easy though (You might have more luck with this?). It was like asking a co-worker to make a small correction to a simple error, and then afterwards realize that the co-worker had made major (random?) changes all over the program.<br>
+Not, what we wanted. <br>
+After some back and forth the copy paste of the neural net code into the <a href="Code/CarGameTraffic.py ">Car Game code</a> (CarGameTraffic.py). ended up being a manual job. <br>Still, a pretty easy job though.<br>
 
 
 
