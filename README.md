@@ -165,7 +165,7 @@ The collected data looks like this (offset, lane, user/computer action):<br>
 <img src="Pics/DataFormatScreen2.jpg" alt="Chat with ChatGPT" width="300" hspace="100"><br>
 <br>
 The code is available in <a href="Code/CarGameCollectData_SelfDrive.py">Car Game</a> (Collect car game data, computer is driver).<br>
-With collected data <a href="Code/GameData.csv">here</a> and <a href="Code/game_data.xlsx">here</a><br>
+With collected data <a href="Code/GameData.csv">here</a> and <a href="Code/game_data.xlsx">here</a>.<br>
 <br>
 Feel free to adjust the code, to work on your own way of collecting data to train on (in later steps).
 
