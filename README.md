@@ -144,7 +144,7 @@ And, eventually, after a lot of back and forth with ChatGPT, there was even some
 So, on with the thinking cap again: What about making it easier by forcing the driver to make small moves all the time? I.e. not allowing the driver to just go straight? And then “cheating” by collecting those datapoint from another computer program, running the car…? <br>
 <br>
 Indeed, there are many possibilities when it comes to data collecting.<br>
-In the <b><i>first</i></b> version the user is driving the car, and we are collecting road offsets (where is the car compared to the car), and traffic position (which lane).<br>
+In the <b><i>first version</i></b> the user is driving the car, and we are collecting road offsets (where is the car compared to the car), and traffic position (which lane).<br>
 <br>
 
 
