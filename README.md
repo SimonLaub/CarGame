@@ -187,7 +187,7 @@ Asking ChatGPT to copy paste the new neural net code into the existing game was 
 Not, what we wanted. <br>
 After some back and forth the copy paste of the neural net code into the <a href="Code/CargameTraffic.py ">Car Game code</a> (CarGameTraffic.py) ended up being a manual job. <br>Still, a pretty easy job though.<br>
 <img src="Pics/CarGameNeuralNetScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
-The code is available in <a href="Code/CargameTraffic_NeuralNetSelfDrive.py ">Car Game</a> (CarGameTraffic_NeuralNetSelfDrive.py).<br>
+The code is available in <a href="Code/CargameTraffic_NeuralNetSelfDrive.py">Car Game</a> (CarGameTraffic_NeuralNetSelfDrive.py).<br>
 <br>
 <img src="Pics/CarSelfDriveNeural.gif" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 <h2>Conclusion.</h2>
@@ -196,7 +196,7 @@ And that is it.  A car game in Python, even capable of self-drive.<br>
 With lots of possibilities for add-ons: More traffic, increased speed, better self-drive, different roads etc.<br>
 Feel free to explore and how you can improve the game.<br>
 <br>
-
+A pdf file with the original assignment is available <a href="Pics/CargameProgrammingWithLLM.pdf">here</a>
 
 
 
