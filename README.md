@@ -185,7 +185,7 @@ Feel free to experiment with this by looking at the code in <a href="Code/CarAct
 The final step. We are now ready to let the neural net drive the car.<br>
 Asking ChatGPT to copy paste the new neural net code into the existing game was not so easy though (You might have more luck with this?). It was like asking a co-worker to make a small correction to a simple error, and then afterwards realize that the co-worker had made major (random?) changes all over the program.<br>
 Not, what we wanted. <br>
-After some back and forth the copy paste of the neural net code into the <a href="Code/CarGameTraffic.py ">Car Game code</a> (CarGameTraffic.py) ended up being a manual job. <br>Still, a pretty easy job though.<br>
+After some back and forth the copy paste of the neural net code into the <a href="Code/CargameTraffic.py ">Car Game code</a> (CarGameTraffic.py) ended up being a manual job. <br>Still, a pretty easy job though.<br>
 
 
 
