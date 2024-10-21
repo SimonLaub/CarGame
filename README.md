@@ -66,7 +66,8 @@ Try out the code. Or make your adjustments to the code to add points to the game
 Now, we need to add some traffic to the game.
 Making a good prompt for that appears to be a tricky thing, though.<br>
 Certainly, it was a struggle to run the code that was coming from ChatGPT (by all means, try it yourself).<br>
-So, in order to proceed, we might need to do some “chain of thought” (COT) prompting here...?<br>
+So, in order to proceed, we might need to do some “<i>chain of thought</i>” (COT) prompting here...?<br>
+<br>
 First, we need a place to spawn the new cars, at which stage the idea about moving the road in “slices” becomes annoying?<br>
 Anyway, we agreed on code like this: <br>
 
