@@ -147,7 +147,10 @@ Indeed, there are many possibilities when it comes to data collecting.<br>
 In the <b><i>first version</i></b> the user is driving the car, and we are collecting road offsets (where is the car compared to the car), and traffic position (which lane).<br>
 <br>
 
-
+<img src="Pics/CarCollectDateScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
+<img src="Pics/DataFormatScreen.jpg" alt="Chat with ChatGPT" width="500"><br>
+<img src="Pics/CarCollectDataSelfDriveScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
+<img src="Pics/DataFormatScreen2.jpg" alt="Chat with ChatGPT" width="500"><br>
 
 
 
