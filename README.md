@@ -21,7 +21,7 @@ You can control the car with arrows, and the car does appear to be moving. So, t
 The car is yellow off road, and red on the road. Ok. Fine. <br>
 Still, you can, of course, change everything you are not pleased with, or ask ChatGPT to do it for you.
 
-<h2>Exercise 1.</h2>
+<h2>Exercise 2.</h2>
 In order to make the game more exciting, I will ask for a more winding road. 
 
 
