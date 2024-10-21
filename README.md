@@ -196,7 +196,7 @@ And that is it.  A car game in Python, even capable of self-drive.<br>
 With lots of possibilities for add-ons: More traffic, increased speed, better self-drive, different roads etc.<br>
 Feel free to explore and how you can improve the game.<br>
 <br>
-A pdf file with the original assignment is available <a href="Pics/CargameProgrammingWithLLM.pdf">here</a>
+A pdf file with the original assignment is available <a href="Pics/CargameProgrammingWithLLM.pdf">here</a>.
 
 
 
