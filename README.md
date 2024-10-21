@@ -54,7 +54,44 @@ Getting that out of ChatGPT was not so easy… <br>And took several prompts and 
 Looking at the very few changes needed to make that work, you can’t help thinking that it would have been easier just to add the scoring to the code yourself.  <br>
 Anyway, the end result of the discussion can be seen in <a href="Code/Cargame.py">Car Game</a> (With points).<br>
 <img src="Pics/CarGameScreen.jpg" alt="Chat with ChatGPT" width="200" hspace="100"><br>
+Try out the code. Or make your adjustments to the code to add points to the game. <br>
 
+```
+          # Render the score
+           score_text = font.render(f"Score: {score}", True, BLACK)
+           window.blit(score_text, (10, 10))  # Draw score at top-left corner
+```
+
+<h2>Exercise 4.</h2>
+Now, we need to add some traffic to the game.
+Making a good prompt for that appears to be a tricky thing, though.<br>
+Certainly, it was a struggle to run the code that was coming from ChatGPT (by all means, try it yourself).<br>
+So, in order to proceed, we might need to do some “chain of thought” (COT) prompting here...?<br>
+First, we need a place to spawn the new cars, at which stage the idea about moving the road in “slices” becomes annoying?<br>
+Anyway, we agreed on code like this: <br>
+
+```
+# Spawn traffic cars
+current_time = pygame.time.get_ticks()
+if (current_time - last_spawn_time) > traffic_spawn_interval:
+    last_spawn_time = current_time
+
+    # Spawn traffic for slice
+    slice_info = road_slices[0]
+    # Traffic y coordinate
+    traffic_lane_y = slice_info['y']
+
+    # Calculate the curvature offset for this slice
+    curve = math.sin((slice_info['y'] + total_distance) * curve_frequency) * curve_amplitude
+    # Update the x-coordinate of the slice
+    traffic_lane_x = (WIDTH - road_width) // 2 + curve + slice_info['traffic_road_offset']
+
+    # Create traffic car rect
+    traffic_rect = pygame.Rect(traffic_lane_x, traffic_lane_y, traffic_width, traffic_height)
+```
+
+But that’s, of course, not enough, we also need to add code that checks if our car is running into the traffic.<br>
+After some “debate”, we settled on this code:<br>
 
 
 
