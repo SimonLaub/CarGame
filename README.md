@@ -157,6 +157,7 @@ It collects data in this format (offset, lane, useraction):<br>
 <br>
 Again: Making a relatively simple algorithm that can drive based on this training data is probably a little bit tricky though? And will take some additional adjustments. Certainly, here, the code for making this work quickly became (very) smelly, and will not be included here. <br>
 Still, feel free to experiment with this though.<br>
+<br>
 To make it much, much simpler, another data collection was also tried. Here, a computer runs the car, and is forced to go either a little left or right on all data collection points. <br>
 <img src="Pics/CarGameCollectDataSelfDriveScreen.jpg" alt="Car game. Chat with ChatGPT" width="200" hspace="100"><br>
 <img src="Pics/DataFormatScreen2.jpg" alt="Chat with ChatGPT" width="300" hspace="100"><br>
