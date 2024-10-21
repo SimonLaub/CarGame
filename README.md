@@ -9,5 +9,7 @@ Exciting.
 So, we begin chatting with ChatGPT (version ChatGPT o1-preview. October 2024).<br>
 <img src="Pics/start.jpg" alt="Chat with ChatGPT" width="500">
 <br>
+Interestingly, and a little surprisingly, this worked <i><b>fine</b></i> right out of the box.<br>
 <br>
-More. 
+Running the code, it looks like this:<br>
+
