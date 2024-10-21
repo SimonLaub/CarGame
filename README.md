@@ -116,7 +116,7 @@ if (abs(car_y - traffic_lane_y) < 20) and (slice_info['DoneCrash'] == False):
 A lot of the <b><i>magic</i></b> comes down to understanding which slice is holding the traffic, and where that is compared to our car. <br>That you need to recalculate “curvature offset”, and what have you, for doing that is...well, smelly, imho. <br><br>I.e. this probably needs some refactoring, to make the coding of other, later features easier.<br>
 So, well, as in many software teams, the team members were kind of yelling at each other here...<br> Arguing about who was making good clean code, and who was making smelly, confused code. <br>
 <br>
-It was time for the project manager, that was also me, to step in and say “enough”, we have a deadline to meet, so we will deliver this code, and make room for refactoring in upcoming sprints <br>(Shipping error prone code, with the excuse that we are doing refactoring later on… Well, don’t do that IRL…).<br>
+It was time for the project manager, that was also me, to step in and say “enough”, we have a deadline to meet, so we will deliver this code, and make room for refactoring in upcoming sprints <br>(Shipping error prone code, with the excuse that we are doing refactoring later on… <br>Well, don’t do that IRL…).<br>
 <br>
 Anyway, the game looked cool:<br>
 
