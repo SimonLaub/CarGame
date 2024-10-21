@@ -93,5 +93,24 @@ if (current_time - last_spawn_time) > traffic_spawn_interval:
 But that’s, of course, not enough, we also need to add code that checks if our car is running into the traffic.<br>
 After some “debate”, we settled on this code:<br>
 
+```
+# Check if  traffic collides with car
+slice_info = road_slices[0]
+# Traffic y coordinate
+traffic_lane_y = slice_info['y']
+if (abs(car_y - traffic_lane_y) < 20) and (slice_info['DoneCrash'] == False):
+    # Calculate the curvature offset for this slice
+    curve = math.sin((slice_info['y'] + total_distance) * curve_frequency) * curve_amplitude
+    # Update the x-coordinate of the slice
+    traffic_lane_x = (WIDTH - road_width) // 2 + curve + slice_info['traffic_road_offset']
+    if abs(car_x - traffic_lane_x) < 20:
+       # Crash
+       slice_info['DoneCrash'] = True
+       crash_text = font.render(f"Crash: -1000 Points", True, RED)
+       window.blit(crash_text, (10, 50))  # Draw score at top-left corner
+       # Update the display
+       pygame.draw.rect(window, WHITE, car_rect)
+```
+
 
 
