@@ -141,6 +141,7 @@ And ChatGPT gets even more to the point later on in its answer:<br>
 <img src="Pics/RareEventsquestion2.jpg" alt="Chat with ChatGPT" width="500"><br>
 So, maybe here it would be possible to train an algorithm on collected data, if we just oversample the rare events<br> (when the user is actually doing something, rather than just going straight ahead). <br>
 And, eventually, after a lot of back and forth with ChatGPT, there was even some code for doing that.<br> But, sadly, again, smelly code.<br>
+<br>
 So, on with the thinking cap again: What about making it easier by forcing the driver to make small moves all the time? I.e. not allowing the driver to just go straight? And then “cheating” by collecting those datapoint from another computer program, running the car…? <br>
 <br>
 Indeed, there are many possibilities when it comes to data collecting.<br>
