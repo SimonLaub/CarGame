@@ -49,6 +49,10 @@ Try out the code by running the file <a href="Code/CargameWindingRoad.py">Car Ga
 Or ask ChatGPT for your version of the code.
 
 <h2>Exercise 3.</h2>
+So far, so good. But its not a game unless the user receives points for doing well, and no points for not doing so good… <br>
+Getting that out of ChatGPT was not so easy… <br>And took several prompts and much explaining...<br>
+Looking at the very few changes needed to make that work, you can’t help thinking that it would have been easier just to add the scoring to the code yourself.  <br>
+Anyway, the end result of the discussion can be seen in <a href="Code/Cargame.py">Car Game</a> (With points).
 
 
 
